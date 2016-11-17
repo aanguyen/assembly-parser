@@ -69,7 +69,7 @@ int main (int argc, char* argv[]) {
 					cout << word << " " << codeNum << endl;
 				}
 			}
-			if (opNum>=0&&opNum<=18) {											//Opcodes. GL Andrew you're gonna need it
+			if (opNum>=0&&opNum<=18) {											//Opcodes
 				for (int x=0; x<100; x++)
 					word[x]=0;
 				bool valid = true;
