@@ -1,4 +1,4 @@
-# computer-sim
+# assembly-parser
 
 Part 1: Parses and provides some statistics about inputted assembly instructions. Sample assembly code files to be parsed are provided
   (commenting function is enabled with "#")
